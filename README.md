@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with Best Practices in React Native at Scale
 - 💬 Ask me about React Native
 - ⚡ Fun fact: I like Soccer and Skating
-H
