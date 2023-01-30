@@ -1,12 +1,10 @@
-# [![Header]([https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png](https://www.linkedin.com/in/ralphmaamari/overlay/background-image/))](https://www.linkedin.com/in/ralphmaamari/)
-
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ralphmaamari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ralphmaamari/) 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ralph-dev.ralph-dev) 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid)
 ---
 
