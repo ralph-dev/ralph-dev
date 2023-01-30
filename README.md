@@ -3,6 +3,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+[![Linkedin Badge](https://img.shields.io/badge/-ralphmaamari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ralphmaamari/) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/syrashid)
 ---
 
 ### 👨‍💻 About Me
@@ -13,8 +16,6 @@ I'm Ralph Maamari! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - 🌱 I love working on new projects, learning new languages, frameworks, and architectures.
 
 - ⚡ Fun fact: I like Soccer, Skating, Frisbee, and Beach Volleyball.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ralphmaamari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ralphmaamari/) 
 
 ---
 ### 🛠️ Languages & Tools
@@ -47,10 +48,10 @@ I'm Ralph Maamari! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ---
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ralph-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ralph-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+### Quick stats about me
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=ralph-dev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Ralph's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ralph-dev&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 ---
 
 ### ✍️ Random Dev Quote of the Day
